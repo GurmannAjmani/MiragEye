@@ -1,6 +1,6 @@
 
 import streamlit as st
-import cv2
+import opencv-python as cv2
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
