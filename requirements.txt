@@ -1,1 +1,6 @@
-pip install opencv-python
+opencv-python==4.8.1.78
+streamlit==1.27.2
+numpy==1.24.3
+seaborn==0.12.2
+matplotlib==3.7.1
+pandas==1.5.3
