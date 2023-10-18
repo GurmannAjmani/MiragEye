@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Set Streamlit page title and header
-st.title("Lung X-ray Heatmap")
+st.title("Heatmap")
 
 # Create a file uploader widget for image files
 uploaded_file = st.file_uploader("Upload a lung X-ray image", type=["jpg", "jpeg", "png"])
